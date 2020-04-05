@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Exercicios
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Exerciciols\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Exercicios()
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Exerciciols\r\n
+comment2.params=q
+comment2.target=double[]\ leNotas(int)
+comment3.params=v
+comment3.target=int\ soma(int[])
+comment4.params=arrayNome\ nome
+comment4.target=boolean\ procuraNome(java.lang.String[],\ java.lang.String)
+comment5.params=v1\ v2
+comment5.target=int[]\ somaArrays(int[],\ int[])
+comment6.params=v
+comment6.target=double\ encontraMaior(double[])
+comment7.params=v
+comment7.target=double\ encontraMenor(double[])
+comment8.params=
+comment8.target=void\ arrayAleatorio()
+comment9.params=
+comment9.target=int[]\ criaArray()
+numComments=10

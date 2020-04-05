@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Maquina\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=temp\ qC\ vibracoes
+comment1.target=Log(double,\ int,\ int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Maquina\r\n
+comment2.params=
+comment2.target=double\ getTemperatura()
+comment3.params=
+comment3.target=int\ getQuantCiclos()
+comment4.params=
+comment4.target=int\ getVibracoes()
+comment5.params=t
+comment5.target=void\ setTemperatura(double)
+comment6.params=q
+comment6.target=void\ setQuantCiclos(int)
+comment7.params=v
+comment7.target=void\ setVibracoes(int)
+numComments=8

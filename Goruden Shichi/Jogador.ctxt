@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Jogador\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ idade
+comment1.target=Jogador(java.lang.String,\ int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Jogador\r\n
+comment10.params=
+comment10.target=java.lang.String\ imprimeCarta()
+comment11.params=
+comment11.target=void\ info()
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=
+comment4.target=Carta\ getCarta()
+comment5.params=
+comment5.target=int\ getTries()
+comment6.params=nome
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=idade
+comment7.target=void\ setIdade(int)
+comment8.params=tries
+comment8.target=void\ setTries(int)
+comment9.params=
+comment9.target=void\ pegaCarta()
+numComments=12

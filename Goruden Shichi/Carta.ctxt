@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carta
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Carta\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=naipe\ n
+comment1.target=Carta(java.lang.String,\ int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Carta\r\n
+comment2.params=
+comment2.target=java.lang.String\ imprimeInfo()
+comment3.params=
+comment3.target=java.lang.String\ getNaipe()
+comment4.params=
+comment4.target=int\ getN()
+comment5.params=n
+comment5.target=void\ setN(int)
+comment6.params=naipe
+comment6.target=void\ setNaipe(java.lang.String)
+numComments=7
